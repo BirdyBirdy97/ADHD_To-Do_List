@@ -12,6 +12,6 @@ to help combat task paralysis and executive disfunction.
 - When the day is over, the program will display everything that was completed for the day and completed task count
 - Keeps track of the task high-score
 
-###### Currently a work-in-progess
+## Currently a work-in-progess
 I'm currently the sole dev working on this, so the going is a bit slow lol I hope to have at least one major push a month,
 as I am working a day job and studying on top of this project. Thank you for your patience! :)
